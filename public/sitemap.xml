@@ -5,5 +5,27 @@
     <loc>https://supplements.neoi.jp/</loc>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://supplements.neoi.jp/faq</loc>
+    <priority>0.8</priority>
+  </url>
+  <url><loc>https://supplements.neoi.jp/faq/supplements-regulated-singapore</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/buy-supplements-online-singapore-safe</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/pharmacy-vs-online-supplements-singapore</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/buy-melatonin-singapore</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/why-japanese-supplements-popular-singapore</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/common-supplement-mistake-singapore</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/what-made-in-japan-means-supplements</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/what-is-gmp-iso-supplement</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/how-to-read-supplement-label</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/collagen-pills-vs-drinks-singapore</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/probiotics-singapore-guardian-watsons-online</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/halal-supplements-singapore</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/womens-multivitamins-age-singapore</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/what-is-nmn</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/best-time-to-take-nmn</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/what-is-royal-jelly</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/how-to-spot-fake-supplements</loc><priority>0.6</priority></url>
+  <url><loc>https://supplements.neoi.jp/faq/are-supplements-medicine</loc><priority>0.6</priority></url>
 
 </urlset>
